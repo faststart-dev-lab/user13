@@ -68,7 +68,7 @@
     "rimraf": "^2.6.3",
     "sonarqube-scanner": "^2.5.0",
     "supertest": "^4.0.2",
-    "ts-jest": "^24.0.2",
+    "ts-jest": "^29.0.3",
     "ts-node": "^8.1.0",
     "tslint": "^5.16.0",
     "typescript": "^3.4.4",
